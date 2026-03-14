@@ -38,3 +38,13 @@ a small relay could be used to bypass the camera head movement from the brushles
 additional relays could be activated to control other functions or peripherals
 
 This approach will allow the system to become more flexible and expandable, enabling multiple features to be controlled through the same original camera interface.
+
+Watch the project video on YouTube:
+
+https://www.youtube.com/watch?v=2IxX7wNjGOE
+
+https://www.youtube.com/shorts/e4w6Px8TCFM
+
+
+
+
